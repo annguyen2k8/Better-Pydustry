@@ -1,0 +1,1 @@
+## It's insprited by https://github.com/RCR-OOP/pydustry but I made it better.
