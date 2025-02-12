@@ -1,0 +1,11 @@
+# This is the latest stable release of Python.
+python_latest:
+    stage: testing
+    image: python:latest
+    
+    before_script:
+      - python -V                          # Print out python version for debugging
+      - pip install -r requirements.txt    # Install dependencies.
+    
+    script:                                # Run test scripts.
+    - python ./tests/test.py
