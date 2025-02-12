@@ -5,17 +5,17 @@ It's insprited by https://github.com/RCR-OOP/pydustry.py but I made it better.
 
 How to install it?
 ------------------
-```sh
-   pip install pydustry
+```shell
+pip install pydustry
 ```
 Or...
 
-```sh
-   pip install git+https://github.com/annguyen2k8/Better-Pydustry
+```shell
+pip install git+https://github.com/annguyen2k8/Better-Pydustry
 ```
 
 Example
-^^^^^^^
+-------
 
 ```python
 
