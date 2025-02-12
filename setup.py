@@ -13,7 +13,7 @@ setup(
     description="A module check info server mindustry.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/annguyen2k8/Better-Pydustry"
+    url="https://github.com/annguyen2k8/Better-Pydustry",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
